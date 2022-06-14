@@ -2,7 +2,7 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <PublishUrlHistory>C:\Users\haier\source\repos\vimeovsv\published\|C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Vimeo Desktop Application\Jun 14 Deployement\published\|C:\Users\haier\source\repos\winformapp\published\|https://bitbucket.org/toheed_afzaal_1-11/vimeovsv/src/master/published/|C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\Actualdeployement vimeo\</PublishUrlHistory>
-    <InstallUrlHistory>https://github.com/toheedafzaal/vimeovsv/blob/main/published/WebBrowser_HTML_File_CS.application/|https://github.com/toheedafzaal/vimeovsv/tree/main/published/|https://bitbucket.org/toheed_afzaal_1-11/vimeovsv/src/master/published/</InstallUrlHistory>
+    <InstallUrlHistory>https://github.com/toheedafzaal/vimeovsv/blob/main/published/|https://github.com/toheedafzaal/vimeovsv/blob/main/published/WebBrowser_HTML_File_CS.application/|https://github.com/toheedafzaal/vimeovsv/tree/main/published/|https://bitbucket.org/toheed_afzaal_1-11/vimeovsv/src/master/published/</InstallUrlHistory>
     <SupportUrlHistory>https://www.panacealogics.com/</SupportUrlHistory>
     <UpdateUrlHistory>https://bitbucket.org/toheed_afzaal_1-11/vimeovsv/src/master/published/|http://localhost/WebBrowser_HTML_File_CS/</UpdateUrlHistory>
     <BootstrapperUrlHistory />
